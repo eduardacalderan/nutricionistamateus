@@ -131,7 +131,7 @@ a.title {
 
 #header nav .toggle {
   display: none;
-  cursor: ;
+  cursor: pointer;
 }
 
 /*SCPACINg*/
@@ -307,7 +307,7 @@ main {
   background-color: var(--body-color);
 }
 
-.swiper-container {
+.swiper {
   width: 100%;
   height: 100%;
 }
